@@ -3,5 +3,5 @@
   "extends": [
     "local>RahulGautamSingh-testing/renovate-config"
   ],
-  "baseBranches": ["main", "hello"]
+  "baseBranch": "hello"
 }
