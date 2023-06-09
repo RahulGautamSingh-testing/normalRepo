@@ -1,7 +1,7 @@
 {
   "name": "raoul",
 "dependencies": {
-"xmldoc": "1.1.0",
+"xmldoc": "1.3.0",
   "react": "16.0.0"
 }
 }
